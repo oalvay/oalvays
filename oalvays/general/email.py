@@ -5,6 +5,8 @@ class email_session:
     def __init__(self, address, authword, host = 'default'):
         if [type(address), type(authword), type(host)] != [str, str, str]:
             raise TypeError('all arguments taken should be string')
+        if '@' not in address:
+            raise SyntaxError("email address should include '@'")
         self.address = address
         self.authword = authword
         self.host = "smtp." + address.split("@")[1] if host == 'default' else host
