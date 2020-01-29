@@ -1,4 +1,3 @@
-__all__ = ['general', 'kaggle']
+import oalvays
 
-import general
-import kaggle
+__all__ = ['oalvays']
