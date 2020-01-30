@@ -8,9 +8,9 @@ pip install oalvays
 
 module description:  
 
-+ `general`
++ `general`  
  helpers for daily projects   
-+ `kaggle`
++ `kaggle`  
  specialised tools for kaggle competition  
 
 PyPI project website  
