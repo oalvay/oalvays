@@ -1,7 +1,7 @@
 # oalvays
-self-use python3 pip package
+self-use package, contains many useful and cool tools.
 
-regular approach to install
+regular approach to install:
 ```
 pip install oalvays
 ```
