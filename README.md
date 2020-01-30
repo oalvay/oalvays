@@ -7,8 +7,11 @@ pip install oalvays
 ```
 
 module description:  
-`general`--- helpers for daily projects   
-`kaggle  --- specialised tools for kaggle competition  
+
++ `general`
+ helpers for daily projects   
++ `kaggle`
+ specialised tools for kaggle competition  
 
 PyPI project website  
 https://pypi.org/project/oalvays/
