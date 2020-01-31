@@ -1,5 +1,5 @@
 # oalvays
-self-use package, contains many useful and cool tools.
+self-use package, (will) filled with many useful and cool tools.
 
 regular approach to install:  
 ```
