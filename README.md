@@ -9,7 +9,7 @@ pip install oalvays
 module description:  
 
 + `general`  
- helpers for daily projects   
+ helpers for daily coding   
 + `kaggle`  
  specialised tools for kaggle competition  
 
