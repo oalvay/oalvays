@@ -1,8 +1,10 @@
 import pandas as pd
 import time
 
-# this great tool comes from a kaggle kernel, I can't remember the address...
-
+"""
+this great tool comes from a kaggle kernel, I can't remember the address...
+please contact me if you do know
+"""
 def sd(col, max_loss_limit=0.001, avg_loss_limit=0.001, na_loss_limit=0, n_uniq_loss_limit=0, fillna=0):
     """
     max_loss_limit - don't allow any float to lose precision more than this value. Any values are ok for GBT algorithms as long as you don't unique values.
