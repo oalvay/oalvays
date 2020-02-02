@@ -1,6 +1,10 @@
 import smtplib
 from email.mime.text import MIMEText
 
+"""
+a convenient way to send email with Python
+"""
+
 class email_session:
     def __init__(self, address, authword, host = 'default'):
         if [type(address), type(authword), type(host)] != [str, str, str]:
